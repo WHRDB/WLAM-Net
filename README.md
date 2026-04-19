@@ -6,7 +6,6 @@ This repository contains the official implementation of the paper: "WLAM-Net: Wa
 
 ## 📢 News
 - **[2026-04-13]** The repository is created.  
-- ** [ 2026-04-13] ** 存储库已创建。
 - **[2026-04-13]** The paper is submitted to IEEE TGRS.
 - **[Coming Soon]** Code and pretrained weights will be released upon acceptance.
 
