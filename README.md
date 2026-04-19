@@ -5,8 +5,9 @@ This repository contains the official implementation of the paper: "WLAM-Net: Wa
 **Authors:** [Haoran Wang], [Hao Bai], [Da Wu], [Jiaen Chen], [Xuewen Wang] ,[Yuchen Zheng] 
 
 ## 📢 News
-- **[2026-04]** The repository is created.
-- **[2026-04]** The paper is submitted to IEEE TGRS.
+- **[2026-04-13]** The repository is created.  
+- ** [ 2026-04-13] ** 存储库已创建。
+- **[2026-04-13]** The paper is submitted to IEEE TGRS.
 - **[Coming Soon]** Code and pretrained weights will be released upon acceptance.
 
 ## 📝 Abstract
