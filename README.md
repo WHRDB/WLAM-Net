@@ -1,4 +1,4 @@
-# WLAM-Net: A Wavelet-driven Locally Adaptive Mamba Network for Cropland Change Detection
+# WLAMF-Net: A Wavelet-driven Locally Adaptive Mamba Fusion Network for Cropland Change Detection
 
 This repository contains the official implementation of the paper: "WLAM-Net: Wavelet-driven Locally Adaptive Mamba Network for Cropland Change Detection", which has been submitted to *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*.
 
@@ -7,7 +7,7 @@ This repository contains the official implementation of the paper: "WLAM-Net: Wa
 ## 📢 News
 - **[2026-04-13]** The repository is created.  
 - **[2026-04-13]** The paper is submitted to IEEE TGRS.
-- - **[2026-04-13]** The paper is submitted to ISPRS IF.
+- - **[2026-06-1]** The paper is submitted to Elsevier IF.
 - **[Coming Soon]** Code and pretrained weights will be released upon acceptance.
 
 ## 📝 Abstract
