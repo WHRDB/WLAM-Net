@@ -6,7 +6,7 @@ This repository contains the official implementation of the paper: "WLAM-Net: Wa
 
 ## 📢 News
 - **[2026-04-13]** The repository is created.  
-- - **[2026-05-28]** The paper is submitted to Elsevier Pattern Recognition.
+- **[2026-05-28]** The paper is submitted to Elsevier Pattern Recognition.
 - **[Coming Soon]** Code and pretrained weights will be released upon acceptance.
 
 ## 📝 Abstract
@@ -26,9 +26,9 @@ Extensive experiments on three representative benchmark datasets (JLYHCD, CLCD, 
 ## 📂 Datasets
 
 We comprehensively evaluate the proposed WLAM-Net through extensive experiments across three representative high-resolution cropland change detection datasets:
-- **JLYHCD (Jilin-1)**
-- **CLCD**
-- **PX-CLCD**
+- **JLYHCD (Jilin-1)**   Jilin-1 website of CGSTL (satellite technology co., ltd.), [Online]. Available:https://www.jl1mall.com/.
+- **CLCD**   A CNN-transformer network with multiscale context aggregation for fine-grained cropland change detection, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+- **PX-CLCD**   Snunet3+:Afull-scale connected siamese network and a dataset for cultivated land change detection in high-resolution remote-sensing images, IEEE Transactions on Geoscience and Remote Sensing
 
 *(Suggestion: You can add download links for these datasets here once the repo is public)*
 
