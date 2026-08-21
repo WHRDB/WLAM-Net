@@ -21,7 +21,7 @@ Extensive experiments on three representative benchmark datasets (JLYHCD, CLCD, 
 
 ## 🚀 Framework
 
-*(Suggestion: Place your `framework.pdf` or `framework.png` here to make the repo attractive. You can use the following syntax to display the image:)*
+![Overall framework of the proposed RDFPNet](./Over_farmwork/over_farmwork.png)
 
 ## 📂 Datasets
 
