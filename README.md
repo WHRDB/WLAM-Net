@@ -6,7 +6,7 @@ This repository contains the official implementation of the paper: "WLAM-Net: Wa
 
 ## 📢 News
 - **[2026-04-13]** The repository is created.  
-- **[2026-05-28]** The paper is submitted to Elsevier Pattern Recognition.
+- **[2026-09-13]** The paper is submitted to Elsevier Computers and Electronics in Agriculture.
 - **[Coming Soon]** Code and pretrained weights will be released upon acceptance.
 
 ## 📝 Abstract
