@@ -6,7 +6,7 @@ This repository contains the official implementation of the paper: "WLAM-Net: Wa
 
 ## 📢 News
 - **[2026-04-13]** The repository is created.  
-- **[2026-09-13]** The paper is submitted to Elsevier Computers and Electronics in Agriculture.
+- **[2026-09-13]** The paper is submitted to International Journal of Applied Earth Observation and Geoinformation.
 - **[Coming Soon]** Code and pretrained weights will be released upon acceptance.
 
 ## 📝 Abstract
