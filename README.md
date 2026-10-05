@@ -25,10 +25,13 @@ Extensive experiments on three representative benchmark datasets (JLYHCD, CLCD, 
 
 ## 📂 Datasets
 
-We comprehensively evaluate the proposed WLAM-Net through extensive experiments across three representative high-resolution cropland change detection datasets:
-- **JLYHCD (Jilin-1)**   Jilin-1 website of CGSTL (satellite technology co., ltd.), [Online]. Available:https://www.jl1mall.com/.
-- **CLCD**   A CNN-transformer network with multiscale context aggregation for fine-grained cropland change detection, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
-- **PX-CLCD**   Snunet3+:Afull-scale connected siamese network and a dataset for cultivated land change detection in high-resolution remote-sensing images, IEEE Transactions on Geoscience and Remote Sensing
+We evaluate WLAM-Net on three high-resolution cropland change detection datasets:
+
+- **JLYHCD (Jilin-1):** Jilin-1 website of CGSTL. Available at https://www.jl1mall.com/.
+- **CLCD:** *A CNN-transformer network with multiscale context aggregation for fine-grained cropland change detection*, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+- **PX-CLCD:** *SNUNet3+: A full-scale connected siamese network and a dataset for cultivated land change detection in high-resolution remote-sensing images*, IEEE Transactions on Geoscience and Remote Sensing.
+
+**Dataset download:** JLYHCD, CLCD, and PX-CLCD are available through this [Google Drive folder](https://drive.google.com/drive/folders/1GcZyptoM_myxFmEkHgMuvVZx-BFpxgHF?usp=drive_link).
 
 *(Suggestion: You can add download links for these datasets here once the repo is public)*
 
